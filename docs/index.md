@@ -1,4 +1,4 @@
-## Sample
+## mkdocs testing
 
 One more, finally. Or not? :)
 
