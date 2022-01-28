@@ -2,7 +2,7 @@ site_name: Test mkdocs
 site_description: 'A mkdocs test'
 site_author: 'Philipp Affolter'
 docs_dir: docs/
-repo_name: 'philippaffolter/mkdocs-www'
+repo_name: 'https://github.com/philippaffolter/mkdocs-www'
 # repo_url: 'https://github.com/mhausenblas/mkdocs-template'
 nav:
     - Home: index.md
